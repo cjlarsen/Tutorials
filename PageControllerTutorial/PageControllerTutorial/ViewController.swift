@@ -83,7 +83,7 @@ extension ViewController: UIPageViewControllerDataSource, UIPageViewControllerDe
         
         var index = currentVC.page.index
         
-        if index == 0{
+        if index == 0 {
             return nil
         }
         
